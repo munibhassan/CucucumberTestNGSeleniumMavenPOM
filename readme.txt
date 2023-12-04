@@ -12,7 +12,7 @@ Default locale: en_US, platform encoding: Cp1252
 OS name: "windows 11", version: "10.0", arch: "x86", family: "windows"
 
 1st Step
-Please clone "https://github.com/munibhassan/CucucumberTestNGSeleniumMavenPageObjectModel.git"
+Please clone "https://github.com/munibhassan/CucucumberTestNGSeleniumMavenPOM.git"
 
 2nd Step
 Checkout Master Branch
